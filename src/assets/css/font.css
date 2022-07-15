@@ -1,0 +1,15 @@
+@import '@fontsource/roboto/index.css';
+
+@font-face {
+  font-family: 'Naugthy';
+  src: url('~/assets/fonts/NaughtyMonster.otf');
+}
+
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url('~/assets/fonts/ProximaNova-Regular.otf');
+}
+
+* {
+  @apply font-body;
+}
